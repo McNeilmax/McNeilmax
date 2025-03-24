@@ -32,10 +32,17 @@ Here are some ideas to get you started:
 - ✅ Fun Fact: [Your Fun Fact]
 - 💻 I'm currently learning about **[Your Learning Topic]**
 
-## Languages and tools
+## Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,aws,c,cpp,discord,eclipse,fastapi,git,github,gmail,instagram,java,linkedin,matlab,opencv,py,ros,ubuntu,vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,matlab,py" />
+  </a>
+</p> 
+
+## Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,aws,discord,eclipse,fastapi,git,github,gmail,instagram,linkedin,matlab,opencv,ros,ubuntu,vscode,windows" />
   </a>
 </p> 
 
