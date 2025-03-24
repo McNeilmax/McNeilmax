@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YourUsername&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=4"/></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&locale=en&theme=chartreuse-dark"  width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=McNeilmax&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=4"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=McNeilmax&show_icons=true&locale=en&theme=chartreuse-dark"  width="410" /></p>
 </div>
