@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ## Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,aws,discord,eclipse,fastapi,git,github,gmail,instagram,linkedin,matlab,opencv,ros,ubuntu,vscode,windows&perline=6" />
+    <img src="https://skillicons.dev/icons?i=arduino,aws,discord,eclipse,fastapi,git,github,gmail,instagram,linkedin,matlab,opencv,ros,ubuntu,vscode,windows&perline=8" />
   </a>
 </p> 
 
