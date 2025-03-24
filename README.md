@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## Contact me
 <a href="https://www.instagram.com/YourInstagram/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
 <a href="https://discordapp.com/users/YourDiscordID/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=black" alt="Discord"></a>
-<a href="https://www.linkedin.com/in/YourLinkedIn/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-2290f0?style=for-the-badge&logo=linkedin&logoColor=black" alt="Linkedin"></a>
+<a href="https://www.linkedin.com/in/neil-hernandez-osorio/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-2290f0?style=for-the-badge&logo=linkedin&logoColor=black" alt="Linkedin"></a>
 <a href="mailto:youremail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"> </a>
 
 ## About me
