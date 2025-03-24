@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## Languages and tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=arduino,aws,c,cpp,discord,eclipse,fastapi,git,github,gmail,instagram,java,linkedin,matlab,opencv,py,ros,ubuntu,vscode,windows" />
   </a>
 </p> 
 
