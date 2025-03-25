@@ -9,11 +9,11 @@
 <a href="mailto:neil210170@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"> </a>
 
 ## About me
-- 📚 I'm a [Your Major] student at [Your University]
-- 🖥️ I'm a programmer at [Your Company/Project]
+- 📚 I'm a Robotics student at Tec de Monterrey
+- 🖥️ I'm a programmer at SpaceLab and VantTec
 - 😎 Currently developing [Your Projects]
 - ✅ Fun Fact: [Your Fun Fact]
-- 💻 I'm currently learning about **[Your Learning Topic]**
+- 💻 I'm currently learning about drones
 
 ## Languages
 <p align="center">
